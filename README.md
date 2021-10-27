@@ -1,6 +1,6 @@
--👋🏾 Hi, I’m Teisha.
+👋🏾 Hi, I’m Teisha.
 - 👀 I’m interested in building beautiful websites with sleek, responsive designs.
-- 👩🏾‍💻 I’m currently learning full-stack development @ the UNC-CH Coding Bootcamp
+- 👩🏾‍💻 I’m a 2021 Grad of the UNC Chapel-Hill Full Stack Coding Bootcamp.
 - 📫 You can reach me via email at mcraeteisha@gmail.com
 
 <!---
