@@ -36,11 +36,6 @@ class About extends Me
             React::class,
         ];
     }
-
-    public function getPersonalMessage(): string
-    {
-        return "Let's chat! You can reach me via email at mcraeteisha@gmail.com";
-    }
 }
 ```
 
